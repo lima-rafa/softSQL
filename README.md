@@ -1,4 +1,4 @@
-# Easy SQL: SQL em Português para Pessoas Simples
+# SoftSQL: SQL em Português para Pessoas Simples!!!
 
 **Grupo**
 - Rafael Lima
@@ -6,7 +6,7 @@
 - Roberth Lins
 - Mateus Gonçalves
 
-**Easy SQL** é uma implementação didática de SQL em português, pensada para tornar comandos de banco de dados mais acessíveis e intuitivos para iniciantes e usuários sem experiência prévia em programação.
+Implementação didática de SQL em português, pensada para tornar comandos de banco de dados mais acessíveis e intuitivos para iniciantes e usuários sem experiência prévia em programação.
 
 ---
 
@@ -16,7 +16,7 @@
 - Facilitar o aprendizado e o uso de consultas de banco de dados por qualquer pessoa, independentemente do seu background técnico.
 - Permitir escrever e executar comandos em português que são analisados, traduzidos para SQL padrão e executados em um banco SQLite local.
 
-### Principais facilidades do Easy SQL
+### Principais facilidades do Soft SQL
 
 1. **Sintaxe em Português**: comandos como `MOSTRAR`, `INSERIR EM`, `REMOVER DE`, `CRIAR TABELA`, etc.
 2. **Agregadores traduzidos**: `SOMA`/`SUM`, `CONTAGEM`/`COUNT`, `MÉDIA`/`AVG`, `MAX`, `MIN`.
@@ -53,7 +53,7 @@ java -jar antlr.jar -Dlanguage=Python3 SoftSQL.g4
 python main.py
 ```
 
-### 6. Interagir com o Easy SQL:
+### 6. Interagir com o SoftSQL:
 
 Após rodar o código, digite os comandos desejados. Para encerrar a execução, pressione apenas a tecla Enter (deixe a entrada vazia).
 
